@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "adi1",
+      "surname": "soyadı1"
+    },
+    {
+      "name": "adi2222",
+      "surname": "soyadı2222",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "adi3",
+      "surname": "soyadı3"
+    },
+    {
+      "id": 4,
+      "name": "adi4",
+      "surname": "soyadı4"
+    },
+    {
+      "id": "5",
+      "name": "adi5",
+      "surname": "soyadı5"
+    },
+    {
+      "id": "EyvVUCD",
+      "name": "",
+      "surname": ""
+    },
+    {
+      "id": "toHTULy",
+      "name": "",
+      "surname": ""
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
